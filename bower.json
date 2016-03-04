@@ -1,0 +1,10 @@
+{
+  "name": "grunt-tutorial",
+  "authors": [
+    "chad jordan hilis <chilis@apdgroup.com>"
+  ],
+  "description": "bower components packages",
+  "dependencies": {
+    "foundation": "^5.5.3"
+  }
+}
